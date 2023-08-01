@@ -30,6 +30,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>springboot-git-cicd-image</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
